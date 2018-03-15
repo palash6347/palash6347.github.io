@@ -1,0 +1,64 @@
+How to create a website from beginning to end
+
+1) Create a Github account and git software. Although You don't need to synchronize git and github with R studio but it is better.
+
+2) Create a git repository
+               ------------------- Trick is the name of the git repository has to be user name.github.io
+			   -------------------Create a readme file and give some description (Not absolutely necessary)
+               ------------------ Clone your github website link. 
+
+
+(3)	Go to the Rstudio and create a project
+        ----------------- Paste the url in the git repository link 
+        -----------------  Need to create _site.yml and index.Rmd and about.Rmd and .nojekyll file
+		-----------------  You can create as many as tab for your Website.
+		
+(4) Create a text file from Rstudio (below in the Rmarkdown tab )
+		------ paste the following command and save it. It creates a _site.yml file in your repository.
+
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+ html_document:
+ theme: cosmo
+ highlight: textmate
+ 
+output_dir: "." 		
+
+(5) Create a Rmarkdown file and name it as index.Rmd file and can write anything. I use the default rmarkdown document and save it.
+
+(6) Now Create another Rmarkdown file and name it as about.Rmd file and You can write anything and save it.
+
+(7) Also create a text file same as _site.yml file and save it as .nojekyll name.
+
+(8) Now go to the Rstudio command line and do the following
+
+install.packages("rmarkdown")
+library(rmarkdown)
+
+rmarkdown::render_site()
+
+Eventually you will see something like                     Output created: index.html
+
+(9) Now go to the Rstudio > Git > More > Shell  and write the following command and hit enter
+
+git add .
+
+git commit -m "first try"
+
+
+(9) Then go to the Rstudio > Git > push (It will push all the file in the github repository)
+
+(10) Final step and we are done.
+--------- Go to the setting > scroll down and you will find the option github pages > do chose master and publish it. 
+
+
+                                             done.
+ 
