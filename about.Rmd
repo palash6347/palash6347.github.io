@@ -1,5 +1,60 @@
----
-title: "my personal bio"
 
----
-Nothing..try to build one
+## PALASH SHARMA
+Address: 4144 Booth Pl. Apt 15, 
+
+Kansas City, Kansas, 66103
+
+(+1) 775-203-7920 
+
+email: psharma4@kumc.edu
+
+
+## OBJECTIVE
+. Self motivated and result driven Statistician, with a strong theoretical background and over 1.5
+years of professional experience building statistical models in the health and Statistics industry.
+
+. Proven ability to transform big data into cohesive and actionable insight via collaboration with
+diverse stakeholders.
+
+. Adept in balancing many complex projects and demands simultaneously, and under minimal direction.
+
+
+
+### EDUCATION
+
+* University of Kansas Medical Center August 2017 - Present
+
+    PhD in BioStatistics
+
+    Graduate Research Assistant, Department of BioStatistics.
+
+
+
+
+* University of Nevada, Reno August 2015 - July 2017
+
+    Master of Science in Mathematics (Concentration in Statistics)
+
+    Graduate Teaching Assistant, Department of Mathematics and Statistics .
+
+
+* University of Dhaka, Bangladesh January 2010 - July 2014
+
+      Bachelor of Science in Mathematics.
+
+
+###CERTIFICATION
+
+* Collaborative Institutional Training Initiative(CITI) Certificate for Biomedical Researchers. (09/16/2017-present).
+
+* Collaborative Institutional Training Initiative(CITI) Certificate for Responsible conduct of Research. (09/16/2017-present).
+
+###PROGRAMMING SKILLS
+
+* SAS suite of analytics, data management, and reporting tools : Base SAS for Windows (DATA
+step, merging, procedures, arrays, functions, fomats, labels, etc.). SAS Macro language, SAS/GRAPH,
+SAS/STAT, ODS Output Delivery System.
+
+* R for Statistical Analysis software.
+
+* Microsoft Excel, SQL, MATLAB, LATEX, Mathematica etc.
